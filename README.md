@@ -2,4 +2,6 @@
 
 ## Importante
 
-- Dê chmod +x 
+- Dê chmod +x script-shell-create-server.sh 
+
+para liberar a permissão de execução
